@@ -8,6 +8,9 @@ venv/
 img/*
 !img/.gitkeep
 
+# Исходники аудио (voice.ogg уже в data/)
+Вызов-+74951852884-202602151006.m4a
+
 # Только локально, не выкладывать в GitHub
 human-readme.md
 .cursorrules

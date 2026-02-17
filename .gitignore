@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+*.log
+img/*
+!img/.gitkeep
+
+# Только локально, не выкладывать в GitHub
+human-readme.md
+.cursorrules
+genai-readme.md
+draft-review.md
